@@ -743,6 +743,7 @@ textarea.form-control {
 	position: relative;
 	display: block;
 	height: 20em;
+	border:solid black 2px;
 	max-width: 100%;
 }
 
