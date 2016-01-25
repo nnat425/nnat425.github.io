@@ -742,9 +742,8 @@ textarea.form-control {
 .grid figure img {
 	position: relative;
 	display: block;
-	min-height: auto;
+	height: 20em;
 	max-width: 100%;
-	opacity: 0.8;
 }
 
 .grid figure figcaption {
@@ -916,3 +915,7 @@ figure.effect-bubba h2 {
 
 ul {
 }​
+
+#img_pic{
+height:259px;
+}
